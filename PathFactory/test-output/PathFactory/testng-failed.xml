@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [PathFactory]">
+  <listeners>
+    <listener class-name="com.utils.Extent_Reports"/>
+  </listeners>
+  <test thread-count="5" name="Ecommerce App Test_Chrome(failed)">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="com.automationpractice.tests.TC2_SigninPage">
+        <methods>
+          <include name="sign"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.automationpractice.tests.TC2_SigninPage -->
+    </classes>
+  </test> <!-- Ecommerce App Test_Chrome(failed) -->
+  <test thread-count="5" name="Ecommerce App Test_Edge(failed)">
+    <parameter name="Browser" value="Edge"/>
+    <classes>
+      <class name="com.automationpractice.tests.TC2_SigninPage">
+        <methods>
+          <include name="sign"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.automationpractice.tests.TC2_SigninPage -->
+      <class name="com.automationpractice.tests.TC1_LandingPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="home"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.automationpractice.tests.TC1_LandingPage -->
+    </classes>
+  </test> <!-- Ecommerce App Test_Edge(failed) -->
+  <test thread-count="5" name="Ecommerce App Test_Firefox(failed)">
+    <parameter name="Browser" value="Firefox"/>
+    <classes>
+      <class name="com.automationpractice.tests.TC2_SigninPage">
+        <methods>
+          <include name="sign"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.automationpractice.tests.TC2_SigninPage -->
+    </classes>
+  </test> <!-- Ecommerce App Test_Firefox(failed) -->
+</suite> <!-- Failed suite [PathFactory] -->

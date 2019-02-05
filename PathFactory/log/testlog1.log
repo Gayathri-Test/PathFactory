@@ -1,0 +1,102 @@
+2019-02-04 22:09:26,070 [main] INFO ECommerce Test - Application opened
+2019-02-04 22:09:26,101 [main] INFO ECommerce Test - Application URL validated
+2019-02-04 22:09:27,295 [main] INFO ECommerce Test - Clicked Sign in link
+2019-02-04 22:09:27,312 [main] INFO ECommerce Test - Sign in link directed to the appropriate page
+2019-02-04 22:09:27,313 [main] INFO ECommerce Test - Sign in link validated
+2019-02-04 22:15:05,710 [main] INFO ECommerce Test - Application opened
+2019-02-04 22:15:05,747 [main] INFO ECommerce Test - Application URL validated
+2019-02-04 22:15:06,855 [main] INFO ECommerce Test - Clicked Sign in link
+2019-02-04 22:15:06,876 [main] INFO ECommerce Test - Sign in link directed to the appropriate page
+2019-02-04 22:15:06,877 [main] INFO ECommerce Test - Sign in link validated
+2019-02-04 22:15:14,576 [main] INFO ECommerce Test - Application opened
+2019-02-04 22:15:15,787 [main] INFO ECommerce Test - Clicked SignIn link
+2019-02-04 22:15:15,944 [main] INFO ECommerce Test - Username and password fields are available
+2019-02-04 22:15:17,718 [main] INFO ECommerce Test - Registered email and password entered
+2019-02-04 22:15:17,719 [main] INFO ECommerce Test - Clicked Sign in button
+2019-02-04 22:15:19,752 [main] INFO ECommerce Test - Sign in function validated
+2019-02-04 22:15:22,384 [main] INFO ECommerce Test - Email field validated by giving invalid address
+2019-02-04 22:15:23,641 [main] INFO ECommerce Test - Password field validated by giving wrong password
+2019-02-04 22:15:24,671 [main] INFO ECommerce Test - Email field validated by leaving it blank
+2019-02-04 22:15:25,788 [main] INFO ECommerce Test - Password field validated by leaving it blank
+2019-02-04 22:15:28,245 [main] INFO ECommerce Test - Clicked forgot password link
+2019-02-04 22:15:28,248 [main] INFO ECommerce Test - Forgot password link validated
+2019-02-04 22:15:29,111 [main] INFO ECommerce Test - Entered already registered email
+2019-02-04 22:15:29,112 [main] INFO ECommerce Test - Error message displayed appropriately
+2019-02-04 22:27:09,936 [main] INFO ECommerce Test - Application opened
+2019-02-04 22:27:09,969 [main] INFO ECommerce Test - Application URL validated
+2019-02-04 22:27:11,681 [main] INFO ECommerce Test - Clicked Sign in link
+2019-02-04 22:27:11,697 [main] INFO ECommerce Test - Sign in link directed to the appropriate page
+2019-02-04 22:27:11,698 [main] INFO ECommerce Test - Sign in link validated
+2019-02-04 22:27:19,360 [main] INFO ECommerce Test - Application opened
+2019-02-04 22:27:20,570 [main] INFO ECommerce Test - Clicked SignIn link
+2019-02-04 22:27:20,761 [main] INFO ECommerce Test - Username and password fields are available
+2019-02-04 22:27:22,830 [main] INFO ECommerce Test - Registered email and password entered
+2019-02-04 22:27:22,831 [main] INFO ECommerce Test - Clicked Sign in button
+2019-02-04 22:27:24,851 [main] INFO ECommerce Test - Sign in function validated
+2019-02-04 22:27:28,041 [main] INFO ECommerce Test - Email field validated by giving invalid address
+2019-02-04 22:27:29,685 [main] INFO ECommerce Test - Password field validated by giving wrong password
+2019-02-04 22:27:30,858 [main] INFO ECommerce Test - Email field validated by leaving it blank
+2019-02-04 22:27:31,871 [main] INFO ECommerce Test - Password field validated by leaving it blank
+2019-02-04 22:27:34,612 [main] INFO ECommerce Test - Clicked forgot password link
+2019-02-04 22:27:34,615 [main] INFO ECommerce Test - Forgot password link validated
+2019-02-04 22:27:35,538 [main] INFO ECommerce Test - Entered already registered email
+2019-02-04 22:27:35,539 [main] INFO ECommerce Test - Error message displayed appropriately
+2019-02-04 22:28:11,486 [main] INFO ECommerce Test - Application opened
+2019-02-04 22:28:11,505 [main] INFO ECommerce Test - Application URL validated
+2019-02-04 22:28:11,747 [main] INFO ECommerce Test - Clicked Sign in link
+2019-02-04 22:28:17,301 [main] INFO ECommerce Test - Application opened
+2019-02-04 22:28:17,438 [main] INFO ECommerce Test - Clicked SignIn link
+2019-02-04 22:28:18,458 [main] INFO ECommerce Test - Username and password fields are available
+2019-02-04 22:28:18,752 [main] INFO ECommerce Test - Registered email and password entered
+2019-02-04 22:28:18,753 [main] INFO ECommerce Test - Clicked Sign in button
+2019-02-04 22:28:20,770 [main] INFO ECommerce Test - Sign in function validated
+2019-02-04 22:29:02,656 [main] INFO ECommerce Test - Application opened
+2019-02-04 22:29:02,681 [main] INFO ECommerce Test - Application URL validated
+2019-02-04 22:29:04,209 [main] INFO ECommerce Test - Clicked Sign in link
+2019-02-04 22:29:04,225 [main] INFO ECommerce Test - Sign in link directed to the appropriate page
+2019-02-04 22:29:04,225 [main] INFO ECommerce Test - Sign in link validated
+2019-02-04 22:29:12,515 [main] INFO ECommerce Test - Application opened
+2019-02-04 22:29:13,904 [main] INFO ECommerce Test - Clicked SignIn link
+2019-02-04 22:29:14,038 [main] INFO ECommerce Test - Username and password fields are available
+2019-02-04 22:29:15,488 [main] INFO ECommerce Test - Registered email and password entered
+2019-02-04 22:29:15,489 [main] INFO ECommerce Test - Clicked Sign in button
+2019-02-04 22:29:17,507 [main] INFO ECommerce Test - Sign in function validated
+2019-02-04 22:29:21,213 [main] INFO ECommerce Test - Email field validated by giving invalid address
+2019-02-04 22:29:22,361 [main] INFO ECommerce Test - Password field validated by giving wrong password
+2019-02-04 22:29:23,427 [main] INFO ECommerce Test - Email field validated by leaving it blank
+2019-02-04 22:29:24,567 [main] INFO ECommerce Test - Password field validated by leaving it blank
+2019-02-04 22:29:27,349 [main] INFO ECommerce Test - Clicked forgot password link
+2019-02-04 22:29:27,350 [main] INFO ECommerce Test - Forgot password link validated
+2019-02-04 22:29:28,274 [main] INFO ECommerce Test - Entered already registered email
+2019-02-04 22:29:28,274 [main] INFO ECommerce Test - Error message displayed appropriately
+2019-02-04 22:36:42,511 [main] INFO ECommerce Test - Application opened
+2019-02-04 22:36:42,542 [main] INFO ECommerce Test - Application URL validated
+2019-02-04 22:36:43,721 [main] INFO ECommerce Test - Clicked Sign in link
+2019-02-04 22:36:43,766 [main] INFO ECommerce Test - Sign in link directed to the appropriate page
+2019-02-04 22:36:43,767 [main] INFO ECommerce Test - Sign in link validated
+2019-02-04 22:36:50,613 [main] INFO ECommerce Test - Application opened
+2019-02-04 22:36:51,726 [main] INFO ECommerce Test - Clicked SignIn link
+2019-02-04 22:36:51,906 [main] INFO ECommerce Test - Username and password fields are available
+2019-02-04 22:36:53,451 [main] INFO ECommerce Test - Registered email and password entered
+2019-02-04 22:36:53,452 [main] INFO ECommerce Test - Clicked Sign in button
+2019-02-04 22:36:55,469 [main] INFO ECommerce Test - Sign in function validated
+2019-02-04 22:36:58,210 [main] INFO ECommerce Test - Email field validated by giving invalid address
+2019-02-04 22:36:59,774 [main] INFO ECommerce Test - Password field validated by giving wrong password
+2019-02-04 22:37:00,839 [main] INFO ECommerce Test - Email field validated by leaving it blank
+2019-02-04 22:37:02,069 [main] INFO ECommerce Test - Password field validated by leaving it blank
+2019-02-04 22:37:04,584 [main] INFO ECommerce Test - Clicked forgot password link
+2019-02-04 22:37:04,586 [main] INFO ECommerce Test - Forgot password link validated
+2019-02-04 22:37:05,380 [main] INFO ECommerce Test - Entered already registered email
+2019-02-04 22:37:05,380 [main] INFO ECommerce Test - Error message displayed appropriately
+2019-02-04 22:37:09,528 [main] INFO ECommerce Test - Account creation fields validated
+2019-02-04 22:37:11,409 [main] INFO ECommerce Test - Contact us link in the header validated
+2019-02-04 22:37:11,667 [main] INFO ECommerce Test - Store phone no validated
+2019-02-04 22:37:11,712 [main] INFO ECommerce Test - Store logo validated
+2019-02-04 22:37:11,789 [main] INFO ECommerce Test - Cart link validated
+2019-02-04 22:37:11,867 [main] INFO ECommerce Test - Search option validated
+2019-02-04 22:37:23,799 [main] INFO ECommerce Test - Facebook icon validated
+2019-02-04 22:37:35,275 [main] INFO ECommerce Test - Twitter icon validated
+2019-02-04 22:37:47,146 [main] INFO ECommerce Test - Youtube icon validated
+2019-02-04 22:37:59,013 [main] INFO ECommerce Test - Googleplus icon validated
+2019-02-04 22:37:59,168 [main] INFO ECommerce Test - Footer options validated
+2019-02-04 22:38:02,643 [main] INFO ECommerce Test - Category tabs are validated

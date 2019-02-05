@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PathFactory" duration-ms="89177" started-at="2019-02-05T03:36:34Z" finished-at="2019-02-05T03:38:03Z">
+    <groups>
+    </groups>
+    <test name="Ecommerce App Test_Chrome1" duration-ms="89177" started-at="2019-02-05T03:36:34Z" finished-at="2019-02-05T03:38:03Z">
+      <class name="com.automationpractice.tests.TC2_SigninPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automationpractice.tests.TC2_SigninPage@1786f9d5]" name="setup" is-config="true" duration-ms="5954" started-at="2019-02-05T03:36:44Z" finished-at="2019-02-05T03:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sign()[pri:0, instance:com.automationpractice.tests.TC2_SigninPage@1786f9d5]" name="sign" duration-ms="72035" started-at="2019-02-05T03:36:50Z" finished-at="2019-02-05T03:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.tests.TC2_SigninPage@1786f9d5]" name="tearDown" is-config="true" duration-ms="968" started-at="2019-02-05T03:38:02Z" finished-at="2019-02-05T03:38:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationpractice.tests.TC2_SigninPage -->
+      <class name="com.automationpractice.tests.TC1_LandingPage">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.automationpractice.tests.TC1_LandingPage@10dba097]" name="setup" is-config="true" duration-ms="7519" started-at="2019-02-05T03:36:34Z" finished-at="2019-02-05T03:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="home()[pri:0, instance:com.automationpractice.tests.TC1_LandingPage@10dba097]" name="home" duration-ms="1324" started-at="2019-02-05T03:36:42Z" finished-at="2019-02-05T03:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.tests.TC1_LandingPage@10dba097]" name="tearDown" is-config="true" duration-ms="855" started-at="2019-02-05T03:36:43Z" finished-at="2019-02-05T03:36:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationpractice.tests.TC1_LandingPage -->
+    </test> <!-- Ecommerce App Test_Chrome1 -->
+  </suite> <!-- PathFactory -->
+</testng-results>
